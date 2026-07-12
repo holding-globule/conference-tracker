@@ -149,7 +149,7 @@
     "ht": false,
     "days": 0,
     "yr": 2026,
-    "confirmed": true
+    "confirmed": false
   },
   {
     "id": "c10",
@@ -576,6 +576,22 @@
     "ht": false,
     "days": 0,
     "yr": 2027,
+    "confirmed": false
+  },
+  {
+    "id": "c1783853126413",
+    "name": "BAPD date?",
+    "city": "Leuven",
+    "s": "2026-12-10",
+    "e": "2026-12-10",
+    "pre": null,
+    "eb": null,
+    "url": null,
+    "reg": false,
+    "tr": false,
+    "ht": false,
+    "days": 0,
+    "yr": 2026,
     "confirmed": false
   }
 ]
