@@ -381,5 +381,21 @@
     "days": 0,
     "yr": 2026,
     "confirmed": false
+  },
+  {
+    "id": "c1783851564884",
+    "name": "BDIA showcase",
+    "city": "London Excel",
+    "s": "2027-03-05",
+    "e": "2027-03-06",
+    "pre": null,
+    "eb": null,
+    "url": "https://dentalshowcase.com/",
+    "reg": false,
+    "tr": false,
+    "ht": false,
+    "days": 0,
+    "yr": 2027,
+    "confirmed": false
   }
 ]
