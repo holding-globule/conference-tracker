@@ -609,5 +609,21 @@
     "days": 0,
     "yr": 2028,
     "confirmed": false
+  },
+  {
+    "id": "c1788961837131",
+    "name": "Prague Dental Days",
+    "city": "Prague",
+    "s": "2027-10-08",
+    "e": "2027-10-09",
+    "pre": null,
+    "eb": null,
+    "url": "dent.cz",
+    "reg": false,
+    "tr": false,
+    "ht": false,
+    "days": 0,
+    "yr": 2027,
+    "confirmed": false
   }
 ]
