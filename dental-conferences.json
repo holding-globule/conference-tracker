@@ -226,7 +226,7 @@
     "ht": false,
     "days": 0,
     "yr": 2026,
-    "confirmed": false
+    "confirmed": true
   },
   {
     "id": "c13",
@@ -273,7 +273,7 @@
     "ht": false,
     "days": 0,
     "yr": 2026,
-    "confirmed": false
+    "confirmed": true
   },
   {
     "id": "c15",
