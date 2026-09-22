@@ -721,5 +721,21 @@
     "days": 0,
     "yr": 2028,
     "confirmed": false
+  },
+  {
+    "id": "c1790069512691",
+    "name": "VMTI. Date to be confirmed ",
+    "city": "Nederland",
+    "s": "2027-10-01",
+    "e": "2027-10-01",
+    "pre": null,
+    "eb": null,
+    "url": "https://www.vmti.nl/",
+    "reg": false,
+    "tr": false,
+    "ht": false,
+    "days": 0,
+    "yr": 2027,
+    "confirmed": false
   }
 ]
