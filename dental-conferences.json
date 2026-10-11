@@ -448,7 +448,7 @@
     "ht": false,
     "days": 0,
     "yr": 2027,
-    "confirmed": true
+    "confirmed": false
   },
   {
     "id": "c29",
@@ -544,7 +544,7 @@
     "ht": false,
     "days": 0,
     "yr": 2027,
-    "confirmed": true
+    "confirmed": false
   },
   {
     "id": "c1783431424001",
@@ -731,6 +731,22 @@
     "pre": null,
     "eb": null,
     "url": "https://www.vmti.nl/",
+    "reg": false,
+    "tr": false,
+    "ht": false,
+    "days": 0,
+    "yr": 2027,
+    "confirmed": false
+  },
+  {
+    "id": "c1791727255646",
+    "name": "BOS British Orthodontic Society",
+    "city": "Manchester ",
+    "s": "2027-09-23",
+    "e": "2027-09-26",
+    "pre": null,
+    "eb": null,
+    "url": null,
     "reg": false,
     "tr": false,
     "ht": false,
