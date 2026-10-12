@@ -753,5 +753,21 @@
     "days": 0,
     "yr": 2027,
     "confirmed": false
+  },
+  {
+    "id": "c1791825024581",
+    "name": "Copenhagen Trauma",
+    "city": "Copenhagen",
+    "s": "2027-09-22",
+    "e": "2027-09-25",
+    "pre": null,
+    "eb": null,
+    "url": null,
+    "reg": false,
+    "tr": false,
+    "ht": false,
+    "days": 0,
+    "yr": 2027,
+    "confirmed": false
   }
 ]
