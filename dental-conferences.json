@@ -560,7 +560,7 @@
     "ht": false,
     "days": 0,
     "yr": 2027,
-    "confirmed": false
+    "confirmed": true
   },
   {
     "id": "c34",
@@ -752,7 +752,7 @@
     "ht": false,
     "days": 0,
     "yr": 2027,
-    "confirmed": false
+    "confirmed": true
   },
   {
     "id": "c1791825024581",
@@ -768,6 +768,6 @@
     "ht": false,
     "days": 0,
     "yr": 2027,
-    "confirmed": false
+    "confirmed": true
   }
 ]
