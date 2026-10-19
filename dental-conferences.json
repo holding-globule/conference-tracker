@@ -769,5 +769,21 @@
     "days": 0,
     "yr": 2027,
     "confirmed": true
+  },
+  {
+    "id": "c1792424198686",
+    "name": "Dentistry Show London",
+    "city": "London",
+    "s": "2027-10-01",
+    "e": "2027-10-02",
+    "pre": null,
+    "eb": null,
+    "url": null,
+    "reg": false,
+    "tr": false,
+    "ht": false,
+    "days": 0,
+    "yr": 2027,
+    "confirmed": false
   }
 ]
